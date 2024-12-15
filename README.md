@@ -1,56 +1,91 @@
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+<img src="https://i.imgur.com/lnroRxv.png" alt="FSNA-Final"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Successful Completion of the Full Stack Network Associate Program</h1>
+This tutorial highlights my skills and ability to perform the required networking needs of the modern day enterprise.<br />
 
 
-<h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
-<h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
-
-<h2>Operating Systems Used </h2>
-
-- Windows Server 2022
-- Windows 10 (21H2)
-
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
-<h2>Deployment and Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/1tFEhyd.png" height="80%" width="80%" alt="FSNA-Final"/>
+</p>
+<p>
+Blank Slate of Full Stack Network Associate Real-World Skills Certification in Packet Tracer.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j2qJQKd.png" height="80%" width="80%" alt="FSNA-Final"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Objectives and Tasks to be performed.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/iqV6igS.png" height="80%" width="80%" alt="FSNA-Final"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Step-by-Step Instructions for completing the Skills Qualification Check 1 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DN9RMGf.png" height="80%" width="80%" alt="FSNA-Final"/>
+</p>
+<p>
+Step-by-Step Instructions for completing the Skills Qualification Check 2 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/47FuEVu.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step-by-Step Instructions for completing the Skills Qualification Check 3 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/TlRWKTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step-by-Step Instructions for completing the Skills Qualification Check 4 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/PiHkuBV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step-by-Step Instructions for completing the Skills Qualification Check 5 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/NH4zGLx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step-by-Step Instructions for completing the Skills Qualification Check 6 of 6
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/MzXjdPC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Completion of all Tasks and working diagram.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eUdjYC2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Bonus upgrade to the Skills Qualification Check.
 </p>
 <br />
