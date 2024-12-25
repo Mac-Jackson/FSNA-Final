@@ -9,9 +9,10 @@ This tutorial highlights my skills and ability to meet the networking needs of a
 
 
 
-</p>
+
+
 <p>
-<img src="https://i.imgur.com/1tFEhyd.png" height="80%" width="80%" alt="FSNA-Final"/>
+<img width="960" alt="Screenshot 2024-12-15 222147" src="https://github.com/user-attachments/assets/6933ebf6-4c90-40df-9cfb-90f8f9b3dce1" />
 </p>
 <p>
 Blank Slate of Full Stack Network Associate Real-World Skills Certification in Packet Tracer.
