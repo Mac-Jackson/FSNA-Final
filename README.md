@@ -28,7 +28,8 @@ Objectives and Tasks to be performed.
 <br />
 
 <p>
-<img src="https://i.imgur.com/iqV6igS.png" height="80%" width="80%" alt="FSNA-Final"/>
+<img width="960" alt="Screenshot 2024-12-15 000545" src="https://github.com/user-attachments/assets/e699ae3a-8aca-4c1d-91cf-6a9540c6a2de" />
+
 </p>
 <p>
 Step-by-Step Instructions for completing the Skills Qualification Check 1 of 6
