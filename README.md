@@ -91,7 +91,8 @@ Completion of all Tasks and working diagram.
 <br />
 
 <p>
-<img src="https://i.imgur.com/eUdjYC2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" alt="Screenshot 2024-12-15 001251" src="https://github.com/user-attachments/assets/6570da91-297f-4087-a237-f68764caf9c4" />
+
 </p>
 <p>
 Bonus upgrade to the Skills Qualification Check.
