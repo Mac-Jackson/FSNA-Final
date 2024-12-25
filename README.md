@@ -55,7 +55,8 @@ Step-by-Step Instructions for completing the Skills Qualification Check 3 of 6
 <br />
 
 <p>
-<img src="https://i.imgur.com/TlRWKTg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" alt="Screenshot 2024-12-15 000748" src="https://github.com/user-attachments/assets/176cc17d-e187-4c0f-82d0-243243be9f1d" />
+
 </p>
 <p>
 Step-by-Step Instructions for completing the Skills Qualification Check 4 of 6
