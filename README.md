@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/lnroRxv.png" alt="FSNA-Final"/>
+<img width="960" alt="Screenshot 2024-12-15 004325" src="https://github.com/user-attachments/assets/6624a821-206e-41c2-a61b-51d1e0bb191a" />
 </p>
 
 <h1>Successful Completion of the Full Stack Network Associate Program</h1>
