@@ -19,7 +19,8 @@ Blank Slate of Full Stack Network Associate Real-World Skills Certification in P
 <br />
 
 <p>
-<img src="https://i.imgur.com/j2qJQKd.png" height="80%" width="80%" alt="FSNA-Final"/>
+<img width="960" alt="Screenshot 2024-12-15 000429" src="https://github.com/user-attachments/assets/51a8ce42-b8f1-400d-870f-087c6ae96467" />
+
 </p>
 <p>
 Objectives and Tasks to be performed.
