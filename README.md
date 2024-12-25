@@ -3,7 +3,7 @@
 </p>
 
 <h1>Successful Completion of the Full Stack Network Associate Program</h1>
-This tutorial highlights my skills and ability to perform the required networking needs of the modern day enterprise.<br />
+This tutorial highlights my skills and ability to meet the networking needs of a modern-day enterprise.<br />
 
 
 
@@ -32,7 +32,7 @@ Objectives and Tasks to be performed.
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 1 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 1 of 6
 </p>
 <br />
 
@@ -41,7 +41,7 @@ Step-by-Step Instructions for completing the Skills Qualification Check 1 of 6
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 2 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 2 of 6
 </p>
 <br />
 
@@ -50,7 +50,7 @@ Step-by-Step Instructions for completing the Skills Qualification Check 2 of 6
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 3 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 3 of 6
 </p>
 <br />
 
@@ -59,7 +59,7 @@ Step-by-Step Instructions for completing the Skills Qualification Check 3 of 6
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 4 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 4 of 6
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Step-by-Step Instructions for completing the Skills Qualification Check 4 of 6
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 5 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 5 of 6
 </p>
 <br />
 
@@ -77,12 +77,13 @@ Step-by-Step Instructions for completing the Skills Qualification Check 5 of 6
 
 </p>
 <p>
-Step-by-Step Instructions for completing the Skills Qualification Check 6 of 6
+Step-by-Step Instructions for Completing the Skills Qualification Check 6 of 6
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/MzXjdPC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" alt="Screenshot 2024-12-15 000941" src="https://github.com/user-attachments/assets/fce78a96-cd89-476e-83d7-c4c8397eea91" />
+
 </p>
 <p>
 Completion of all Tasks and working diagram.
